@@ -1,0 +1,5 @@
+include ':app'
+
+//include ':core'
+//project(':core').projectDir = new File(settingsDir, 'libs/liferay-screens')
+//project(':core').name = 'liferay-screens'
